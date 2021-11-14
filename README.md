@@ -1,1 +1,2 @@
 # Horiseon
+For this application a marketing agency wants an optimized website for search engines and accessibiliy. The HTML code has been editied to include semantic elements. The attributes have been edited to include more website accessibility.
